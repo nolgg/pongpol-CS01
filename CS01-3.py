@@ -1,2 +1,2 @@
 A = int(input())
-print(A)
+print("BD:",A)
