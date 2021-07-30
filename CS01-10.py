@@ -1,4 +1,4 @@
-animal = ["cat","dog","bird","cat","bird","dog"]
-for i in animal:
+a = ["cat","dog","bird","cat","bird","dog"]
+for i in a:
     if i == "cat":
         print(i)
